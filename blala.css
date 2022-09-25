@@ -1,0 +1,12 @@
+body
+
+.pot_de_fleur {
+    margin: auto;
+    text-align: center;
+}
+
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
